@@ -21,9 +21,15 @@ body{
     background-color:#222222;
     color: #F6F6F6;
 }
-.fortedestaque {
+
+.titulo-destaque {
     color: #22D4FD;
 }
+
+.paragrafo-destaque{
+    color:#22D4FD;
+}
+
 main > a {
     background-color: #22D4FD;
     color: #F6F6F6;
