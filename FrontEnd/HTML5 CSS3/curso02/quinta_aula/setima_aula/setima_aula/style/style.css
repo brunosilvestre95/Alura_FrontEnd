@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CORES 
+branco #F6F6F6
+preto #000000
+azul botao #22D4FD
+---
+azul escuro #0A2647
+azul medio #144272
+azul #205295
+azul claro #2C74B3
+
+cores retro
+preto #000000
+dark grey #222222
+turquesa #1DCD9F
+verde oceano #169976
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color:#222222;
+    color: #F6F6F6;
+}
+
+.apresentacao{
+    margin: 9%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+main > a {
+    background-color: #22D4FD;
+    color: #F6F6F6;
+
+}
+
+.titulo-destaque {
+    color: #22D4FD;
+}
+
+.paragrafo-destaque{
+    color:#22D4FD;
+}
