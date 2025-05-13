@@ -29,16 +29,28 @@ body{
 }
 
 .apresentacao{
-    margin: 9%;
+    margin: 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.apresentacao__conteudo{
+    width: 615px;
 }
 
 main > a {
     background-color: #22D4FD;
     color: #F6F6F6;
 
+}
+
+.apresentacao__conteudo__titulo{
+    font-size: 36px;
+}
+
+.apresentacao__conteudo__paragrafo{
+    font-size: 24px;
 }
 
 .titulo-destaque {
