@@ -22,8 +22,23 @@ verde oceano #169976
 }
 
 body{
+    height: 100vh;
+    box-sizing: border-box;
     background-color:#222222;
     color: #F6F6F6;
+}
+
+.apresentacao{
+    margin: 9%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+main > a {
+    background-color: #22D4FD;
+    color: #F6F6F6;
+
 }
 
 .titulo-destaque {
@@ -32,10 +47,4 @@ body{
 
 .paragrafo-destaque{
     color:#22D4FD;
-}
-
-main > a {
-    background-color: #22D4FD;
-    color: #F6F6F6;
-
 }
