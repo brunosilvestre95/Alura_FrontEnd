@@ -93,6 +93,11 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+.apresentacao__conteudo__texto a{
+    text-decoration: none;
+    color: #22D4FD;
+}
+
 .paragrafo-destaque{
     color:#22D4FD;
 }
